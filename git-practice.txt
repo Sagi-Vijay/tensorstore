@@ -1,0 +1,25 @@
+TensorStore: Local Development Setup
+
+Project purpose
+TensorStore is a library for reading and writing large
+multidimensional arrays.
+
+Repository connections
+- origin: https://github.com/Sagi-Vijay/tensorstore.git
+  My fork, where I can push my changes.
+
+- upstream: https://github.com/google/tensorstore.git
+  The original project, where I can retrieve updates once
+  this remote is configured.
+
+Local location
+/Users/santa/Desktop/tensorstore
+
+Development workflow
+1. Check the current branch and working tree with git status.
+2. Create a branch for a focused change.
+3. Edit files and review the changes.
+4. Stage the intended files.
+5. Commit with a descriptive message.
+6. Push the branch to my fork.
+7. Open a pull request targeting master in my fork.
